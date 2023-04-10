@@ -1,0 +1,13 @@
+<svg width="45" height="45" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle opacity="0.6" cx="22.5" cy="22.5" r="22.5" fill="#ECECEC" fill-opacity="0.5"/>
+<path d="M23 18.3667V21.1417" stroke="#131313" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M23.0167 14.6667C19.95 14.6667 17.4667 17.15 17.4667 20.2167V21.9667C17.4667 22.5333 17.2333 23.3833 16.9417 23.8667L15.8833 25.6333C15.2333 26.725 15.6833 27.9417 16.8833 28.3417C20.8667 29.6667 25.175 29.6667 29.1583 28.3417C30.2833 27.9667 30.7667 26.65 30.1583 25.6333L29.1 23.8667C28.8083 23.3833 28.575 22.525 28.575 21.9667V20.2167C28.5667 17.1667 26.0667 14.6667 23.0167 14.6667Z" stroke="#131313" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M25.775 28.6833C25.775 30.2083 24.525 31.4583 23 31.4583C22.2417 31.4583 21.5417 31.1417 21.0417 30.6417C20.5417 30.1417 20.225 29.4417 20.225 28.6833" stroke="#131313" stroke-width="1.5" stroke-miterlimit="10"/>
+<rect x="14" y="14" width="17" height="17" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_229" transform="scale(0.0588235)"/>
+</pattern>
+<image id="image0_1_229" width="17" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFiSURBVHgBnVS7cYNAEL1DCqxPwEjKjTqgA1OCQod0YLsClSBUgVyCOzAOneEKROiAgXPC2AHg95hDgxkwiDezs/d597jd20WKFmw2G6coigcMHZgJUzA/y7KjUspv8mVzYb1ee3AUUBB6KUlSmhjb8BbMi6LoSXSBArBitVodTKC+h6mFG+65Dzt1CbhaYC/+AT9AHkSdNpFXEM6iB7whuAn51ZpR22fMQZ8IEsskM1d2mwiT1ytCgBfqS902RUajFGm+xCiR6XRaxjckJ5r3oYfbiwhiPDFOVOTbEBHwfDhlGMaB8wnrA96F+mOSJO9DRL6B2Wz2gzMu/JeEyBm3EHEcb8WV0LViMxz2gy/GIYSZk/l8zqTe08NulsulTNP0s+sUe2ixWOzAZT52iOJZ8nl1ghx2aUVm4WGuaue5Z2oj2OVenufHP78CdOkdFm0dYlXWFsgK85Ae8wCcANV/eclfq0qNDAukKpAAAAAASUVORK5CYII="/>
+</defs>
+</svg>
