@@ -1,6 +1,6 @@
 
   # Dashboard
-  A Dashboard Web Page Format
+  A Dashboard Web Page 
   
   ## URL of Deployment: 
   https://dashboard-theta-ten.vercel.app/
